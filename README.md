@@ -1,6 +1,11 @@
 solarma.github.com
 ==================
 
-[![Build Status](https://buildhive.cloudbees.com/job/SOLARMA/job/solarma.github.com/badge/icon)](https://buildhive.cloudbees.com/job/SOLARMA/job/solarma.github.com/)
+SOLARMA Public Web Site (http://www.solarma.it/)
 
-SOLARMA Public Web Site
+Copyright and Licensing
+=======================
+
+Copyright 2016, [SOLARMA s.n.c.](http://www.solarma.it/)
+
+<!-- EOF -->
